@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8D752B0E1EA54EFC51BDC1F5ED04A022994665A5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8D752B0E1EA54EFC51BDC1F5ED04A022994665A5" : 0,
+    "C93564C1AFB8B50FF58188F21182F5D0EEAD1C3F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "95DFE5C0-56FF-46ED-80BD-21FDD859C841",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8D752B0E1EA54EFC51BDC1F5ED04A022994665A5" : "IntellijSwiftToDoList\/",
+    "C93564C1AFB8B50FF58188F21182F5D0EEAD1C3F" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "IntellijSwiftToDoList",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "IntellijSwiftToDoList.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/IntellijSys\/IntellijSwiftToDoList.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8D752B0E1EA54EFC51BDC1F5ED04A022994665A5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/datomnurdin\/HanekeSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C93564C1AFB8B50FF58188F21182F5D0EEAD1C3F"
+    }
+  ]
+}
