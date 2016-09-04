@@ -1,0 +1,6 @@
+framework module Pods_IntellijSwiftToDoList {
+  umbrella header "Pods-IntellijSwiftToDoList-umbrella.h"
+
+  export *
+  module * { export * }
+}
