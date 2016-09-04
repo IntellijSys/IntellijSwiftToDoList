@@ -8,7 +8,7 @@
         <!--To Do List-->
         <scene sceneID="z8d-zc-H3n">
             <objects>
-                <tableViewController id="1XL-4B-rKn" sceneMemberID="viewController">
+                <tableViewController id="1XL-4B-rKn" customClass="TableViewController" customModule="IntellijSwiftToDoList" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="qAV-Xi-XJy">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -18,10 +18,11 @@
                                 <rect key="frame" x="0.0" y="92" width="600" height="44"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="gGh-yQ-iYJ" id="cRm-11-Th3">
-                                    <rect key="frame" x="0.0" y="0.0" width="600" height="43"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="567" height="43"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" text="Title" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="n9m-Tm-4Bp">
+                                            <rect key="frame" x="15" y="0.0" width="550" height="43"/>
                                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                             <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
@@ -53,7 +54,7 @@
         <!--View Controller-->
         <scene sceneID="kjh-7w-Uqw">
             <objects>
-                <viewController id="AxR-ts-LMc" sceneMemberID="viewController">
+                <viewController id="AxR-ts-LMc" customClass="ViewController" customModule="IntellijSwiftToDoList" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="1Lm-Sf-Fqe"/>
                         <viewControllerLayoutGuide type="bottom" id="xXY-cg-w7m"/>
